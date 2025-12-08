@@ -1,1 +1,35 @@
+<!Docktype HTML>
+<Html>
 
+<Head>
+<Title> Html Practice 1 </Title>
+
+</head>
+
+<body text="white" bgcolor="black">
+<h1 align="center"> Image Tag Practice </h1>
+<img src="C:\Users\Teja\Downloads\download (2).jpg" alt="Image" /></br>
+<h2>HTML Images Text</h2>
+<p>Images can improve the design and the appearance of a web page.</p>
+<h1>HTML Images Syntax</h1>
+<p>
+<pre>
+The HTML <img> tag is used to embed an image in a web page.
+
+Images are not technically inserted into a web page; images are linked to web pages. The <img> tag creates a holding space for the referenced image.
+
+The <img> tag is empty, it contains attributes only, and does not have a closing tag.
+
+The <img> tag has two required attributes:
+
+<mark>src - Specifies the path to the image
+alt - Specifies an alternate text for the image</mark>
+
+</pre>
+</p>
+
+</body>
+
+
+
+</html>
