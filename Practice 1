@@ -1,0 +1,27 @@
+<!Docktype HTML>
+<Html>
+
+<Head>
+<Title> HTML  Practice </Title>
+
+</head>
+
+<body text="blue" background="C:\Users\Teja\Downloads\Lord Krishna.jpg">
+<a href=" https://www.w3schools.com/html/html_paragraphs.asp "> W3 school HTML Paragraphs </a>
+
+<h1> HTML Display </H1>
+<p>
+<i>You cannot be sure how HTML will be displayed.</i></br>
+
+<mark>Large or small screens, and resized windows will create different results.</mark></br>
+
+<u>With HTML, you cannot change the display by adding extra spaces or extra lines in your HTML code.</u></br>
+
+<b>The browser will automatically remove any extra spaces and lines when the page is displayed:</b>
+</p>
+
+</body>
+
+
+
+</html>
