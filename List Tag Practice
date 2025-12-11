@@ -1,1 +1,39 @@
+<!Docktype HTML>
+<Html>
 
+<Head>
+<Title> Html List Tag Practice </Title>
+
+</head>
+
+<body bgcolor = "yellow">
+<h2>
+As of now what i learnt in HTML 
+</h2>
+<ol>
+<li>Basic tags</li>
+<li>Alt tag for link</li>
+<li>Image Tag</li>
+<li>Table Tag</li>
+<li>List tag</li>
+</ol>
+<h3>
+List Tag
+</h3>
+<ul>
+<li>Ordered List</li>
+<li>Unordered List</li>
+<li>Definition List</li>
+</ul>
+<dl>
+<dt>Alt tag</dt>
+<dd> We should use href for link source</dd>
+<dt>Image Tag</dt>
+<dd>we should use src for image location</dd>
+</dl>
+
+</body>
+
+
+
+</html>
