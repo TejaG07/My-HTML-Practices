@@ -1,0 +1,39 @@
+<!Docktype HTML>
+<Html>
+
+<Head>
+<Title> Html Anchor marquee audio video </Title>
+
+</head>
+
+<body bgcolor="#ABB2B9">
+<h2>
+HTML Marquee anchor audio video Tags
+</h2>
+<marquee scrollamount=10 bgcolor="yellow" height=30>This is for Marquee,Audio,Video HTML tags</marquee>
+
+<h2>
+Audio Tag in HTML
+</h2>
+
+<audio controls loop>
+<source src="C:\Users\Teja\Downloads\Trance of OMI.mp3" />
+</audio>
+
+<h2>
+Video Tag in HTML
+</h2>
+
+<video controls width=400 height=400>
+<source src="C:\Users\Teja\Downloads\WhatsApp Video 2026-01-05 at 2.28.55 PM.mp4" />
+</video>
+
+<h2> Link Tag in HTML </h2>
+
+<a href ="file:///C:/Users/Teja/OneDrive/Desktop/My%20Portfolio/HTML%20Browsers/Html%20Practice%20.html" target= "_blank"> HTML Practice </a>
+
+</body>
+
+
+
+</html>
